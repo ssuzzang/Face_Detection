@@ -29,6 +29,7 @@
     - 입력으로 BGR 이미지와 MediaPipe FaceMesh 객체를 받음.
     - 이미지를 RGB로 변환한 후, 랜드마크를 탐지.
     - 각 랜드마크의 x, y 좌표를 이미지 크기에 맞게 픽셀 좌표로 변환하여 저장.
+    - multi_face_landmarks는 탐지된 얼굴의 랜드마크를 저장하는 리스트.
   - **비디오 캡처**: 비디오 파일을 열고, cap.read()를 통해 프레임을 읽음.
     - 웹캠을 사용할 경우 주석을 해제.
   - **랜드마크 시각화**:
@@ -45,7 +46,8 @@
 - 'q' 키를 누르면 프로그램이 종료됩니다.
 
 ## 7.실행화면
-- 
+- ![image](https://github.com/user-attachments/assets/64c6798d-69de-4421-a37c-75ab595a9476)
+
 
 ## 8. 적용 예시
 - **얼굴 인식**:  얼굴 인식 알고리즘 개발 및 연구에 유용.
@@ -54,9 +56,14 @@
 - **UI 개선**: 사용자 인터페이스에서 얼굴 인식을 활용하여 더 직관적인 사용자 경험을 제공.
 
 
-## 8.결론
+## 9.결론
 - MediaPipe를 활용하여 얼굴 랜드마크를 탐지하고 시각화 하는 방법을 보여줌.
 - OpenCV를 통해 비디오 입력을 처리하고, 랜드마크를 실시간으로 표시함으로써, 다양한 얼굴 인식 기술을 경험할 수 있음.
+- 향후 프로젝트에서 여러 얼굴을 인식하거나 다른 객체 인식 기능을 추가할 계획
 
 
 ## 9. Reference:
+- OpenCV Documentation : https://docs.opencv.org/
+- MediaPipe documentation : https://google.github.io/mediapipe/
+- 
+
