@@ -46,7 +46,8 @@
 - 'q' 키를 누르면 프로그램이 종료됩니다.
 
 ## 7.실행화면
-- ![image](https://github.com/user-attachments/assets/64c6798d-69de-4421-a37c-75ab595a9476)
+- ![이담_1](https://github.com/user-attachments/assets/8d7aeee5-5f0b-4e75-aee0-63bd2164d2e1)
+
 
 
 ## 8. 적용 예시
