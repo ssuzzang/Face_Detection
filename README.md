@@ -46,7 +46,12 @@
 - 'q' 키를 누르면 프로그램이 종료됩니다.
 
 ## 7.실행화면
+- 왼쪽눈  :
 - ![이담_1](https://github.com/user-attachments/assets/8d7aeee5-5f0b-4e75-aee0-63bd2164d2e1)
+- 양쪽눈  :
+- ![양쪽눈](https://github.com/user-attachments/assets/8380d21a-d10d-4802-8efb-63ad796bf95c)
+- 얼굴전체  :
+- ![얼굴랜드마크](https://github.com/user-attachments/assets/1f9615a3-6600-4bb7-a87a-bde8d8decf7a)
 
 
 
